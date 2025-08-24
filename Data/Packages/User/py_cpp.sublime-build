@@ -1,0 +1,12 @@
+{
+  "cmd": ["python3", "${file}"],
+  "shell": true,
+  "working_dir": "$file_path",
+  "selector": "source.python",
+  "variants": [
+    {
+      "name": "Run with IO Redirection",
+      "cmd": ["bash", "-c", "python3 '${file}' < /media/white/Codes/IO/input.txt > /media/white/Codes/IO/output.txt"]
+    }
+  ]
+}

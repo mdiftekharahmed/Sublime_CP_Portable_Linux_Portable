@@ -1,0 +1,590 @@
+{
+	"file_history":
+	[
+		"/home/white/Documents/sublime_text/IO/input.txt",
+		"/home/white/Documents/sublime_text/IO/output.txt",
+		"/media/white/Codes/random_codes/first.py",
+		"/media/white/Codes/IO/output.txt",
+		"/media/white/Codes/IO/input.txt",
+		"/media/white/Codes/Sublime_CP_Portable_Linux_Portable/Data/Packages/User/py_cpp.sublime-build",
+		"/media/white/Codes/random_codes/nth.cpp",
+		"/media/white/Codes/random_codes/dd.cpp",
+		"/media/white/Codes/Sublime_CP_Portable_Linux_Portable/Data/Packages/User/cpp_17.sublime-build",
+		"/media/white/Codes/random_codes/a.cpp"
+	],
+	"folder_history":
+	[
+		"/home/white/Documents/Sublime_CP_Portable_Linux_Portable/Data/Packages/User",
+		"/home/white/Documents/Sublime_CP_Portable_Linux_Portable/IO",
+		"/home/white/Documents/git_repos/random_codes",
+		"/home/white/Documents/sublime_text/Data/Packages/User",
+		"/home/white/Documents/sublime_text/IO",
+		"/home/white/Documents/git_repos/Python",
+		"/home/white/Documents/git_repos/Problem_Solving",
+		"/home/white/Documents/git_repos/Contest_Codes",
+		"/home/white/Documents/git_repos/Algorithms",
+		"/media/white/Codes/IO",
+		"/media/white/Codes/random_codes",
+		"/media/white/Codes/git_repos/Python",
+		"/media/white/Codes/git_repos/Problem_Solving",
+		"/media/white/Codes/git_repos/Contest_Codes",
+		"/media/white/Codes/git_repos/Algorithms"
+	],
+	"last_version": 4200,
+	"last_window_id": 1,
+	"log_indexing": false,
+	"next_update_check": 1756139308,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 787.0,
+		"new_window_maximized": false,
+		"new_window_position":
+		[
+			356.0,
+			186.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ps",
+						"pycontest\tpycontest"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/User/py_cpp.sublime-build",
+							""
+						],
+						[
+							"Packages/User/py_cpp.sublime-build",
+							"Run with IO Redirection"
+						]
+					],
+					[
+						"Packages/User/py_cpp.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/white/Documents/git_repos/random_codes/nth.cpp",
+				"/home/white/Documents/sublime_text/IO/input.txt",
+				"/home/white/Documents/sublime_text/IO/output.txt",
+				"/media/white/Codes/random_codes/first.py",
+				"/media/white/Codes/IO/output.txt",
+				"/media/white/Codes/IO/input.txt",
+				"/media/white/Codes/Sublime_CP_Portable_Linux_Portable/Data/Packages/User/py_cpp.sublime-build",
+				"/media/white/Codes/random_codes/nth.cpp",
+				"/media/white/Codes/random_codes/dd.cpp",
+				"/media/white/Codes/Sublime_CP_Portable_Linux_Portable/Data/Packages/User/cpp_17.sublime-build",
+				"/media/white/Codes/random_codes/a.cpp"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 114.0,
+				"history":
+				[
+				]
+			},
+			"output.find_results":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"pinned_build_system": "Packages/User/cpp_17.sublime-build",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 205.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 2
+			}
+		},
+		"new_window_width": 1385.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ps",
+						"pycontest\tpycontest"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/white/Documents/git_repos/random_codes/nth.cpp",
+					"settings":
+					{
+						"buffer_size": 201,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					},
+					"undo_stack":
+					[
+						[
+							17,
+							1,
+							"left_delete",
+							null,
+							"AQAAAJoAAAAAAAAAmgAAAAAAAAABAAAAXw",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAJsAAAAAAAAAmgAAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							20,
+							1,
+							"insert",
+							{
+								"characters": "_"
+							},
+							"AQAAAJwAAAAAAAAAnQAAAAAAAAAAAAAA",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAJwAAAAAAAAAnAAAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							26,
+							1,
+							"left_delete",
+							null,
+							"AQAAAJwAAAAAAAAAnAAAAAAAAAABAAAAXw",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAJ0AAAAAAAAAnQAAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							29,
+							1,
+							"insert",
+							{
+								"characters": "_"
+							},
+							"AQAAAJoAAAAAAAAAmwAAAAAAAAAAAAAA",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAJoAAAAAAAAAmgAAAAAAAAAAAAAAAADwvw"
+						]
+					]
+				}
+			],
+			"build_system": "Packages/User/py_cpp.sublime-build",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/User/py_cpp.sublime-build",
+							""
+						],
+						[
+							"Packages/User/py_cpp.sublime-build",
+							"Run with IO Redirection"
+						]
+					],
+					[
+						"Packages/User/py_cpp.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+			],
+			"file_history":
+			[
+				"/home/white/Documents/sublime_text/IO/input.txt",
+				"/home/white/Documents/sublime_text/IO/output.txt",
+				"/media/white/Codes/random_codes/first.py",
+				"/media/white/Codes/IO/output.txt",
+				"/media/white/Codes/IO/input.txt",
+				"/media/white/Codes/Sublime_CP_Portable_Linux_Portable/Data/Packages/User/py_cpp.sublime-build",
+				"/media/white/Codes/random_codes/nth.cpp",
+				"/media/white/Codes/random_codes/dd.cpp",
+				"/media/white/Codes/Sublime_CP_Portable_Linux_Portable/Data/Packages/User/cpp_17.sublime-build",
+				"/media/white/Codes/random_codes/a.cpp"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/white/Documents/git_repos/Algorithms"
+				},
+				{
+					"path": "/home/white/Documents/git_repos/Contest_Codes"
+				},
+				{
+					"path": "/home/white/Documents/git_repos/Problem_Solving"
+				},
+				{
+					"path": "/home/white/Documents/git_repos/Python"
+				},
+				{
+					"path": "/home/white/Documents/git_repos/random_codes"
+				},
+				{
+					"path": "/home/white/Documents/Sublime_CP_Portable_Linux_Portable/IO"
+				},
+				{
+					"path": "/home/white/Documents/Sublime_CP_Portable_Linux_Portable/Data/Packages/User"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/white/Documents/git_repos/random_codes/nth.cpp",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 201,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										160,
+										160
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"sheets":
+					[
+					]
+				},
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						2
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					],
+					[
+						1,
+						1,
+						2,
+						2
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.778886247833,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					0.5,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 114.0,
+				"history":
+				[
+				]
+			},
+			"output.find_results":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"pinned_build_system": "Packages/User/cpp_17.sublime-build",
+			"position": "0,0,0,0,0,356,128,1741,915,1920,1080,0",
+			"project": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+				"last_automatic_layout":
+				[
+					[
+						0,
+						0,
+						1,
+						2
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					],
+					[
+						1,
+						1,
+						2,
+						2
+					]
+				]
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 205.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 2
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

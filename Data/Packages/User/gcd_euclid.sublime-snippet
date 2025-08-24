@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+
+int euclid_GCD(int a,int b){//gcd of a and b
+	cout<<a<<" "<<b<<endl;
+	if(b == 0)return a;
+	return euclid_GCD(b, a%b);
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>gcd_euclid</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

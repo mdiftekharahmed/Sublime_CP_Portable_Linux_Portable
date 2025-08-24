@@ -1,0 +1,47 @@
+<snippet>
+	<content><![CDATA[
+/*===============================
+Code	:	$1
+Title	:	
+Author	:	Md Iftekhar Ahmed
+=================================
+Link	:	
+=================================
+*/
+
+#include<bits/stdc++.h>
+using namespace std;
+
+
+int main(){
+	std::ios::sync_with_stdio(0);
+	std::cin.tie(0);
+	std::cout.tie(0);
+
+	int _;
+	cin >> _;
+	while(_--){
+
+		
+		
+
+	}
+
+
+
+
+	return 0;
+	
+}
+
+//				Solution Codes
+//===========================================
+
+
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ps</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

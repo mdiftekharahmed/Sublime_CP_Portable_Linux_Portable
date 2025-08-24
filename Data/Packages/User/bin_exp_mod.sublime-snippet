@@ -1,0 +1,25 @@
+<snippet>
+	<content><![CDATA[
+lli bin_exp_mod(lli base_val, lli power_val, lli mod_val){
+	lli res =1;
+
+	while(power_val){
+		base_val %= mod_val;
+		if(power_val%2){
+			res = (res%mod_val * base_val%mod_val) %mod_val;
+			power_val--;
+		}
+		else{
+			base_val = (base_val % mod_val * base_val % mod_val) % mod_val;
+
+			power_val /=2;
+		}
+	}
+	return res;
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bin_exp_mod</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
