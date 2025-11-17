@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+
+bool is_prime[1000001]; // all initialized as false
+void sieve(){
+	int maxN = 1000000;
+	is_prime[0]= is_prime[1]=true; // false==prime, true==not prime
+	for(int i=2;i*i<=maxN;i++){
+		if(!is_prime[i]){
+			for(int j=i*i;j<=maxN;j+=i)is_prime[j]=true;
+		}
+	}
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>sieve_arr</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

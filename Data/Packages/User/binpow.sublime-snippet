@@ -1,0 +1,24 @@
+<snippet>
+	<content><![CDATA[
+ll bin_pow(ll base, ll power){
+	ll res =1;
+	while(power>0){
+		if(power%2){
+			res*=base;
+			power--;
+		}
+		else{
+			base = base * base;
+			power /=2;
+		}
+	}
+
+	return res;
+}
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>binpow</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
