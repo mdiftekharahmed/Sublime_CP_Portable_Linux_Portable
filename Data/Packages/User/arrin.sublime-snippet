@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+int n;cin>>n;
+vi arr(n);
+rep(i,0,n)cin>>arr[i];
+
+//PRINTING ARRAY
+rep(i,0,n)cout<<arr[i]<<" ";
+cout<<endl;
+
+
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>arrin</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

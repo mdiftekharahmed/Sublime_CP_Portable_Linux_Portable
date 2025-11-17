@@ -3,7 +3,7 @@
 /*===============================
 Code	:	$1
 Title	:	
-Author	:	Md Iftekhar Ahmed
+Author	:	N0B0DY
 =================================
 Link	:	
 =================================
@@ -11,6 +11,22 @@ Link	:
 
 #include<bits/stdc++.h>
 using namespace std;
+
+
+#define ll long long
+#define lli long long int
+#define pb push_back
+#define eb emplace_back
+#define all(x) (x).begin(), (x).end()
+#define rall(x) (x).rbegin(), (x).rend()
+#define pii pair<int, int>
+#define vi vector<int>
+#define vll vector<ll>
+#define vpi vector<pii>
+#define endl '\n'
+#define rep(i, a, b) for(int i = (a); i < (b); ++i)
+#define repd(i, a, b,d) for(int i = (a); i < (b); i+=d)
+#define rrep(i, a, b) for(int i = (a); i >= (b); --i)
 
 
 int main(){

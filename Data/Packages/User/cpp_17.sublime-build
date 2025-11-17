@@ -1,6 +1,6 @@
 {
     "cmd": [
-        "g++ -Wall -Wextra -O2 -pthread -std=c++17 \"${file}\" -o runfile && ./runfile </home/white/Documents/sublime_text/IO/input.txt> /home/white/Documents/sublime_text/IO/output.txt"
+        "g++ -O2 -pthread -Wno-unused-parameter -std=c++17 \"${file}\" -o runfile && ./runfile </home/white/Documents/Sublime_CP_Portable_Linux_Portable/IO/input.txt> /home/white/Documents/Sublime_CP_Portable_Linux_Portable/IO/output.txt"
     ],
     "shell": true,
     "working_dir": "$file_path",
